@@ -7,7 +7,7 @@
 - **Languages**:   &nbsp;Python, C, C++, Java, SQL, HTML, CSS, JavaScript
 - **Libraries**: &nbsp;  NumPy, Matplotlib, OpenCV, Tensorflow, keras, SciPy, Pandas, Sklearn, Requests
 - **RDBMS**:  &nbsp;  PostgresSQL, MySQL
-- **Tools**: &nbsp;   Arduino, Raspberry pi, Visual Studio Code, Jupyter notebook, Git
+- **Tools**: &nbsp;   Arduino, Raspberry pi, Jupyter notebook, Git
 
 
 ### Work experience 👔
