@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi everyone👋, I'm Joaquin Zepeda Valero
 
-<!--
-**joaquinzepeda/joaquinzepeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education 🎓
+- Currently in fifth year of Electrical Engineering at Universidad de Chile
 
-Here are some ideas to get you started:
+### Skills 🛠️
+- **Languages**:   &nbsp;Python, C, C++, Java, SQL, HTML, CSS, JavaScript
+- **Libraries**: &nbsp;  NumPy, Matplotlib, OpenCV, Tensorflow, keras, SciPy, Pandas, Sklearn, Requests
+- **RDBMS**:   &nbsp;    PostgresSQL, MySQL
+- **Tools**: &nbsp;      Arduino, Raspberry pi, Visual Studio Code, IntelliJ IDEA, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Work experience 👔
+| Job Position          | Company        | Work Period                |
+| --------------------- | -------------- | -------------------------- |
+| Data analysis and predictive modeling of energy for solar equipment.   | Capta Hydro | January – February 2022    |
+| Data science Internship   | Coordinador eléctico nacional | July – August 2021    |
+| Assistant Teacher           |  Universidad de Chile | Fall Semester 2021  - Present  |
+| Volunteer Physics Teacher | PreuJCT  | 2019- 2021   |
+
+More about me in my [LinkedIn](https://www.linkedin.com/in/joaquin-zepeda-valero/)
+
+
