@@ -14,7 +14,7 @@
 | Job Position          | Company        | Work Period                |
 | --------------------- | -------------- | -------------------------- |
 | Data analysis and predictive modeling of energy for solar equipment.   | Capta Hydro | January – February 2022    |
-| Data science Internship   | Coordinador eléctico nacional | July – August 2021    |
+| BI/process automation Internship   | Coordinador eléctico nacional | July – August 2021    |
 | Assistant Teacher           |  Universidad de Chile | Fall Semester 2021  - Present  |
 | Volunteer Physics Teacher | PreuJCT  | 2019- 2021   |
 
