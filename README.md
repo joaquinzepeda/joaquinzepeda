@@ -1,7 +1,7 @@
 ### Hi everyone, I'm Joaquin Zepeda Valero
 
 ### Education 🎓
-- Currently in fifth year of Electrical Engineering at Universidad de Chile
+- Currently in sixt year of Electrical Engineering at Universidad de Chile
 
 ### Skills 🛠️
 - **Languages**:   &nbsp;Python, C, C++, Javascript, SQL, HTML, CSS
