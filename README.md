@@ -4,8 +4,8 @@
 - Currently in sixt year of Electrical Engineering at Universidad de Chile
 
 ### Skills 🛠️
-- **Languages**:   &nbsp;Python, C, C++, Javascript, SQL, HTML, CSS
-- **Libraries**: &nbsp;  NumPy, Matplotlib, OpenCV, Tensorflow, keras, SciPy, Pandas, Sklearn, Requests
+- **Languages**:   &nbsp;Python, C, C++, Javascript, React-native, HTML, CSS
+- **Libraries**: &nbsp;  NumPy, Matplotlib, OpenCV, Pytorch, Tensorflow, keras, SciPy, Pandas, Sklearn
 - **RDBMS**:  &nbsp;  PostgresSQL, MySQL
 - **Tools**: &nbsp;   Arduino, Raspberry pi, Jupyter notebook, Git
 
