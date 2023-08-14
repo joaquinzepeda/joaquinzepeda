@@ -1,4 +1,4 @@
-### Hi everyone, I'm Joaquin Zepeda Valero
+### Hi everyone, I'm Joaquin Zepeda
 
 ### Education 🎓
 - Currently in sixt year of Electrical Engineering at Universidad de Chile
