@@ -14,7 +14,7 @@ I'm a passionate Electrical Engineering student at Universidad de Chile with a d
 ### 👔 Work Experience
 | Job Position                                                 | Company                       | Work Period               |
 | ------------------------------------------------------------ | ------------------------------ | ------------------------- |
-| Mobile App Developer (React Native & BLE)                     | CAndel                  | November - March 2023 |
+| Mobile App Developer (React Native & BLE)                     | Candel                  | November - March 2023 |
 | Data Analysis and Predictive Modeling of Solar Energy Equipment | Capta Hydro                    | January - February 2022   |
 | BI/Process Automation Internship                               | Coordinador Eléctico Nacional  | July - August 2021       |
 | Assistant Teacher                                             | Universidad de Chile           | Fall Semester 2021 - Present |
