@@ -1,6 +1,6 @@
-## Hi, I'm Joaquin Zepeda 👋
+## Hi, I'm Joaquin Zepeda 😸
 
-I'm a passionate Electrical Engineering student at Universidad de Chile with a deep interest in data analysis and predictive modeling. I enjoy working with various programming languages, libraries, and tools to solve real-world problems. Here's a bit more about what I'm currently involved in:
+I am an electrical engineer with a passion for electronics, signal processing and artificial intelligence. I enjoy working with various programming languages, libraries, and tools to solve real-world problems. Here's a bit more about what I'm currently involved in:
 
 ### 🎓 Education
 - Currently pursuing my sixth year of Electrical Engineering at Universidad de Chile 📚
@@ -14,6 +14,7 @@ I'm a passionate Electrical Engineering student at Universidad de Chile with a d
 ### 👔 Work Experience
 | Job Position                                                 | Company                       | Work Period               |
 | ------------------------------------------------------------ | ------------------------------ | ------------------------- |
+| Electronic and PCB prototype     | Candel                  | November - March 2023 |
 | Mobile App Developer (React Native & BLE)                     | Candel                  | November - March 2023 |
 | Data Analysis and Predictive Modeling of Solar Energy Equipment | Capta Hydro                    | January - February 2022   |
 | BI/Process Automation Internship                               | Coordinador Eléctico Nacional  | July - August 2021       |
@@ -21,7 +22,7 @@ I'm a passionate Electrical Engineering student at Universidad de Chile with a d
 | Volunteer Physics Teacher                                     | PreuJCT                        | 2019 - 2021                |
 
 ### 📝 Thesis
-I'm currently working on my thesis, which focuses on voice processing in human-robot interactions. 🤖🗣️
+My thesis focuses on the reduction of distortions in neural models of speech processing in human-robot interactions, in order to improve automatic speech recognition. 🤖🗣️
 
 ### 📌 Connect with Me
 - Find more about my professional journey on my [LinkedIn](https://www.linkedin.com/in/joaquin-zepeda-valero/). 💼
