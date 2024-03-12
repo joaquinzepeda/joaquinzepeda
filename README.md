@@ -14,11 +14,11 @@ I am an electrical engineer with a passion for electronics, signal processing an
 ### 👔 Work Experience
 | Job Position                                                 | Company                       | Work Period               |
 | ------------------------------------------------------------ | ------------------------------ | ------------------------- |
-| Electronic and PCB prototype     | Candel                  |  December 2023 - Today |
+| Electronic and PCB prototype     | Candel                  |  December 2023 - Present |
 | Mobile App Developer (React Native & BLE)                     | Candel                  | November 2022 - November 2023 |
 | Data Analysis and Predictive Modeling of Solar Energy Equipment | Capta Hydro                    | January - February 2022   |
 | BI/Process Automation Internship                               | Coordinador Eléctico Nacional  | July - August 2021       |
-| Assistant Teacher                                             | Universidad de Chile           | Fall Semester 2021 - Present |
+| Assistant Teacher                                             | Universidad de Chile           | Fall Semester 2021 - November 2023 |
 | Volunteer Physics Teacher                                     | PreuJCT                        | 2019 - 2021                |
 
 ### 📝 Thesis
