@@ -3,7 +3,7 @@
 I am an electrical engineer with a passion for electronics, signal processing and artificial intelligence. I enjoy working with various programming languages, libraries, and tools to solve real-world problems. Here's a bit more about what I'm currently involved in:
 
 ### 🎓 Education
-- Currently pursuing my sixth year of Electrical Engineering at Universidad de Chile 📚
+- Electrical Engineering from Universidad de Chile 📚
 
 ### 🛠️ Skills
 - **Languages**: Python, C, C++, JavaScript, React Native, HTML, CSS
