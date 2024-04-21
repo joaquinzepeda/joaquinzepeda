@@ -1,5 +1,5 @@
 ![](./assets/banner%20-%20copia.png)
-<h1 align="center" >Hi, I'm <a href="www.linkedin.com/in/joaquin-zepeda-valero" target="_blank"> Joaquin Zepeda 😸 </a></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/joaquin-zepeda-valero" target="_blank"> Joaquin Zepeda 😸 </a></h1>
 
 I am an Electrical Engineer with a passion for electronics, signal processing and artificial intelligence. I enjoy working with various programming languages, libraries, and tools to solve real-world problems. Here's a bit more about what I'm currently involved in:
 
