@@ -1,7 +1,7 @@
 ![](./assets/banner%20-%20copia.png)
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/joaquin-zepeda-valero" target="_blank"> Joaquin Zepeda 😸 </a></h1>
 
-I am an Electrical Engineer with a passion for electronics, signal processing and artificial intelligence. I enjoy working with various programming languages, libraries, and tools to solve real-world problems. Here's a bit more about what I'm currently involved in:
+I am an Electrical Engineer with a passion for data processing and artificial intelligence. I enjoy working with various programming languages, libraries, and tools to solve real-world problems. Here's a bit more about what I'm currently involved in:
 
 ### 🎓 Education
 - Electrical Engineering from Universidad de Chile 📚
@@ -48,7 +48,7 @@ I am an Electrical Engineer with a passion for electronics, signal processing an
 ### 👔 Work Experience
 | Job Position                                                 | Company                       | Work Period               |
 | ------------------------------------------------------------ | ------------------------------ | ------------------------- |
-| Electronic and PCB prototype     | Candel                  |  December 2023 - Present |
+| Development Engineer    | Candel                  |  December 2023 - Present |
 | Mobile App Developer (React Native & BLE)                     | Candel                  | November 2022 - November 2023 |
 | Data Analysis and Predictive Modeling of Solar Energy Equipment | Capta Hydro                    | January - February 2022   |
 | BI/Process Automation Internship                               | Coordinador Eléctico Nacional  | July - August 2021       |
