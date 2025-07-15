@@ -49,7 +49,7 @@ I am an Electrical Engineer with a passion for data processing and artificial in
 | Job Position                                                 | Company                       | Work Period               |
 | ------------------------------------------------------------ | ------------------------------ | ------------------------- |
 | Development Engineer    | Candel                  |  December 2023 - Present |
-| Mobile App Developer (React Native & BLE)                     | Candel                  | November 2022 - November 2023 |
+| Web and Mobile App Developer (React Native & BLE)                     | Candel                  | November 2022 - November 2023 |
 | Data Analysis and Predictive Modeling of Solar Energy Equipment | Capta Hydro                    | January - February 2022   |
 | BI/Process Automation Internship                               | Coordinador Eléctico Nacional  | July - August 2021       |
 | Assistant Teacher                                             | Universidad de Chile           | Fall Semester 2021 - November 2023 |
